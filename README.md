@@ -12,7 +12,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(8).pdf" style="text-decoration:none;">Advanced R</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(9).pdf" style="text-decoration:none;">Pattern Recognition and Machine Learning </a></b></li>
                                 
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(10).pdf" style="text-decoration:none;">R Deep Learning Essentials </a></b></li>
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">Probability and Statistics Cookbook </a></b></li>
                                
