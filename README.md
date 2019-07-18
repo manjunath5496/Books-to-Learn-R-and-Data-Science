@@ -19,7 +19,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Data Science for Business</a></b></li> 
  
  
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Applied Predictive Modeling </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Applied Predictive Modeling </a></b></li>
 
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(16).pdf" style="text-decoration:none;">Data Analysis and Graphics Using R</a></b></li>
