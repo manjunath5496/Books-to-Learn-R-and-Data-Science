@@ -15,19 +15,19 @@
  
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">Probability and Statistics Cookbook </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(12).pdf" style="text-decoration:none;"> GitLab Repository Management</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Introducing GitHub</a></b></li> 
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Data Science for Business</a></b></li> 
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">Mastering Git</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Pro Git </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">R Topics Documented</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Applied Predictive Modeling </a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(16).pdf" style="text-decoration:none;">Professional Git</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(17).pdf" style="text-decoration:none;">Version Control with Git </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(16).pdf" style="text-decoration:none;">Data Analysis and Graphics Using R</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(17).pdf" style="text-decoration:none;">Mining the Social Web </a></b></li>
                                 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(18).pdf" style="text-decoration:none;">Git for Teams</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(19).pdf" style="text-decoration:none;">Pragmatic Guide to Git </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(20).pdf" style="text-decoration:none;">Git for Humans </a></b></li>                                                           
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(18).pdf" style="text-decoration:none;">Hands-On Programming with R</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(19).pdf" style="text-decoration:none;">Getting started with qplot </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(20).pdf" style="text-decoration:none;">R Graphics Cookbook </a></b></li>                                                           
                                 
                                 
                                 
