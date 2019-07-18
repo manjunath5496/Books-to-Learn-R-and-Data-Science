@@ -1,18 +1,18 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(1).pdf" style="text-decoration:none;">Building Tools with GitHub </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(2).pdf" style="text-decoration:none;">Git: Learn Version Control with Git: A step-by-step Ultimate beginners Guide</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(3).pdf" style="text-decoration:none;">Git Best Practices Guide</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(4).pdf" style="text-decoration:none;">Git in Practice</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(5).pdf" style="text-decoration:none;"> Git Internals - Source code control and beyond </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(2).pdf" style="text-decoration:none;">Data Analysis with Open Source Tools</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(3).pdf" style="text-decoration:none;">R for Data Science</a></b></li>
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(4).pdf" style="text-decoration:none;">Practical Data Science with R</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(5).pdf" style="text-decoration:none;"> Building a Recommendation System with R </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(6).pdf" style="text-decoration:none;">Git: Pocket Guide</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(6).pdf" style="text-decoration:none;">Learning Predictive Analytics with R</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(7).pdf" style="text-decoration:none;">Git Recipes: A Problem-Solution Approach </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(8).pdf" style="text-decoration:none;">Git Succinctly</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(9).pdf" style="text-decoration:none;">Git Version Control Cookbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(7).pdf" style="text-decoration:none;">Data Mining: Practical Machine Learning Tools and Techniques </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(8).pdf" style="text-decoration:none;">Advanced R</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(9).pdf" style="text-decoration:none;">Pattern Recognition and Machine Learning </a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(10).pdf" style="text-decoration:none;">GitHub Essentials </a></b></li>  
+ 
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">GitLab Cookbook </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(12).pdf" style="text-decoration:none;"> GitLab Repository Management</a></b></li>
