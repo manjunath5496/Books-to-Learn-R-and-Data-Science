@@ -48,6 +48,8 @@
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/dsm(31).pdf" style="text-decoration:none;">The Book of R </a></b></li>                                      
                              <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/dsm(32).pdf" style="text-decoration:none;">The Undergraduate Guide to R</a></b></li>
                                            
-                                
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/dsm(33).pdf" style="text-decoration:none;">Data Mining and Analysis: Fundamental Concepts and Algorithms</a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/dsm(34).pdf" style="text-decoration:none;">Exploratory Data Analysis with R</a></b></li>                                      
+                             <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-to-Learn-R-and-Data-Science/blob/master/dsm(35).pdf" style="text-decoration:none;">R packages</a></b></li>                               
  
  </ul>
