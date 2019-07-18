@@ -31,7 +31,10 @@
                                 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(21).pdf" style="text-decoration:none;">R Cookbook</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(22).pdf" style="text-decoration:none;">R Programming for Data Science </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(24).pdf" style="text-decoration:none;">Learning R </a></b></li>                                  
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(23).pdf" style="text-decoration:none;">Data Science For Dummies </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(24).pdf" style="text-decoration:none;">Learning R </a></b></li>                                  
                                 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(25).pdf" style="text-decoration:none;">Applied Statistics with R</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(26).pdf" style="text-decoration:none;">Introductory R: A beginner's guide to data visualisation and statistical analysis and programming in R </a></b></li>
