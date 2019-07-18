@@ -14,7 +14,7 @@
                                 
  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">GitLab Cookbook </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(11).pdf" style="text-decoration:none;">Probability and Statistics Cookbook </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(12).pdf" style="text-decoration:none;"> GitLab Repository Management</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Introducing GitHub</a></b></li> 
  
