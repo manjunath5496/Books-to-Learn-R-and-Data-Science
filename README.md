@@ -18,7 +18,7 @@
                                
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Data Science for Business</a></b></li> 
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">The Art of Data Science: A Guide for Anyone Who Works with Data</a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Applied Predictive Modeling </a></b></li>
 
   
