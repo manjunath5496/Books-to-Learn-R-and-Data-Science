@@ -31,12 +31,19 @@
                                 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(21).pdf" style="text-decoration:none;">R Cookbook</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(22).pdf" style="text-decoration:none;">R Programming for Data Science </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(23).pdf" style="text-decoration:none;">R Graphics Cookbook </a></b></li>                                  
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(24).pdf" style="text-decoration:none;">Learning R </a></b></li>                                  
                                 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(25).pdf" style="text-decoration:none;">Applied Statistics with R</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(26).pdf" style="text-decoration:none;">Introductory R: A beginner's guide to data visualisation and statistical analysis and programming in R </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(27).pdf" style="text-decoration:none;">R for Beginners </a></b></li>                                      
                                 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(28).pdf" style="text-decoration:none;">   R Tutorial </a></b></li>                                  
                                 
-                                
-                                
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(29).pdf" style="text-decoration:none;">R Fundamentals and Programming Techniques</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(30).pdf" style="text-decoration:none;">The Art of R Programming: A Tour of Statistical Software Design</a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(31).pdf" style="text-decoration:none;">The Book of R </a></b></li>                                      
+                             <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(32).pdf" style="text-decoration:none;">The Undergraduate Guide to R</a></b></li>
+                                           
                                 
  
  </ul>
