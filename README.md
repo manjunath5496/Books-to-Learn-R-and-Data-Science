@@ -18,7 +18,7 @@
                                
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(13).pdf" style="text-decoration:none;">Data Science for Business</a></b></li> 
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(14).pdf" style="text-decoration:none;">R Topics Documented</a></b></li>
+ 
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(15).pdf" style="text-decoration:none;">Applied Predictive Modeling </a></b></li>
 
   
@@ -29,7 +29,9 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(19).pdf" style="text-decoration:none;">Getting started with qplot </a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(20).pdf" style="text-decoration:none;">R Graphics Cookbook </a></b></li>                                                           
                                 
-                                
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(21).pdf" style="text-decoration:none;">R Cookbook</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(22).pdf" style="text-decoration:none;">R Programming for Data Science </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Git-Books/blob/master/git(23).pdf" style="text-decoration:none;">R Graphics Cookbook </a></b></li>                                  
                                 
                                 
                                 
